@@ -1,0 +1,6 @@
+{
+  "name": "ALFA SECTOR — 3v3 Tactical FPS",
+  "description": "Playable 3v3 tactical first-person shooter set in Lisbon and Moscow with original weapons, AI bots, economy buy rounds, and customizable operatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
